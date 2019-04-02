@@ -1,6 +1,6 @@
 import React from 'react';
 import './Header.css';
-import HeaderCOntent from "./HeaderContent"
+import HeaderContent from "./HeaderContent"
 import ImageThumbnail from "./ImageThumbnail"
 import HeaderTitle from "./HeaderTitle"
 
